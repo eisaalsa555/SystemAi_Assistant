@@ -84,13 +84,17 @@ GEMINI_API_KEY_4="YOUR_FOURTH_GEMINI_KEY"
 python main.py
 ```
 ##Usage Commands
-#Command/Input,Mode,Description
-python main.py,Starts in Keyboard Mode,Assistant waits for text input.
-enable voice assistant,Keyboard/Voice,Switches the input mode to microphone listening.
-deactivate voice,Voice,Switches the input mode back to keyboard (text).
-whatsapp par Bhaskar ko message karo ki...,Keyboard/Voice,Uses the send_web_message tool to automate and send the message.
-File ka naam new_file.txt se banao,Keyboard/Voice,Uses the create_file tool for system file management.
-exit,Keyboard/Voice,Shuts down the assistant gracefully.
+#Command/Input,                                    Mode,                      Description
+python main.py,                                    Starts in Keyboard Mode,   Assistant waits for text input.
+enable voice assistant,                            Keyboard/Voice,            Switches the input mode to microphone listening.
+deactivate voice,                                  Voice,                     Switches the input mode back to keyboard (text).
+whatsapp par Bhaskar ko message karo ki...,        Keyboard/Voice,            Uses the send_web_message tool to automate and send the message.
+File ka naam new_file.txt se banao,                Keyboard/Voice,            Uses the create_file tool for system file management.
+exit,                                              Keyboard/Voice,            Shuts down the assistant gracefully.
+
+
+
+
 ##👤 Author
 ##Mohd Eisa - Full Stack Developer & Ethical Hacker
 ##Website Portfolio
