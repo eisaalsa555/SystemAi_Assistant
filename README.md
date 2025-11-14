@@ -83,21 +83,26 @@ GEMINI_API_KEY_4="YOUR_FOURTH_GEMINI_KEY"
 ```Bash
 python main.py
 ```
-##Usage Commands
-#Command/Input,                                    Mode,                      Description
-python main.py,                                    Starts in Keyboard Mode,   Assistant waits for text input.
-enable voice assistant,                            Keyboard/Voice,            Switches the input mode to microphone listening.
-deactivate voice,                                  Voice,                     Switches the input mode back to keyboard (text).
-whatsapp par Bhaskar ko message karo ki...,        Keyboard/Voice,            Uses the send_web_message tool to automate and send the message.
-File ka naam new_file.txt se banao,                Keyboard/Voice,            Uses the create_file tool for system file management.
-exit,                                              Keyboard/Voice,            Shuts down the assistant gracefully.
+| Command / Input                               | Mode             | Description                           |
+| --------------------------------------------- | ---------------- | ------------------------------------- |
+| `python main.py`                              | Keyboard Mode    | Starts the assistant                  |
+| `enable voice assistant`                      | Keyboard → Voice | Enables microphone mode               |
+| `deactivate voice`                            | Voice → Keyboard | Switches back to text mode            |
+| `whatsapp par Bhaskar ko message karo ki ...` | Both             | Sends WhatsApp message using Selenium |
+| `File ka naam new_file.txt se banao`          | Both             | Creates a new file                    |
+| `exit`                                        | Both             | Shuts down the assistant              |
 
 
 
 
-##👤 Author
-##Mohd Eisa - Full Stack Developer & Ethical Hacker
-##Website Portfolio
-##Github Url 'https://github.com/eisaalsa555'
-##Portfolio Url 'https://eisa.lovable.app'
-###Dont Forget To Follow & Start To Our Git Repo
+
+👤 Author
+
+Mohd Eisa
+Full Stack Developer & Ethical Hacker
+
+🔗 Portfolio: https://eisa.lovable.app
+
+🔗 GitHub: https://github.com/eisaalsa555
+
+⭐ If you like this project, don't forget to star the repository!
