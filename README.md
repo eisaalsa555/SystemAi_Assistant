@@ -101,7 +101,7 @@ python main.py
 Mohd Eisa
 Full Stack Developer & Ethical Hacker
 
-🔗 Portfolio: https://eisa.lovable.app
+🔗 Portfolio: https://mohd-eisa-bey.netlify.app/
 
 🔗 GitHub: https://github.com/eisaalsa555
 
